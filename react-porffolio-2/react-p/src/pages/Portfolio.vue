@@ -3,14 +3,12 @@
         <h1>Portfolio Page</h1>
         <div class="project-list">
             <div class="project">
-                <img src="/path-to-project1-image.jpg" alt="Project 1" />
                 <h2>Note-taker-express</h2>
                 <p>Description of Project 1</p>
                 <p>Use of express</p>
                 <a href="https://github.com/bs3102798/note-taker-express" target="_blank">View Project</a>
             </div>
             <div class="project">
-                <img src="/path-to-project2-image.jpg" alt="Project 2" />
                 <h2>Tech-blog</h2>
                 <p>Description of Project 2</p>
                 <p>Use ofbcryptjs,connect-session-sequelize,dotenv,express,express-handlebars,
@@ -19,7 +17,6 @@
             </div>
 
             <div class="project">
-                <img src="/path-to-project2-image.jpg" alt="Project 2" />
                 <h2>Gababara</h2>
                 <p>Description of Project 3</p>
                 <p>Use of Materialize CSS,JSON,Sequelize,Handlebars
@@ -28,7 +25,6 @@
             </div>
 
             <div class="project">
-                <img src="/path-to-project2-image.jpg" alt="Project 2" />
                 <h2>SQL-Employee-Tracker</h2>
                 <p>Description of Project 4</p>
                 <p>Use of cfonts,chalk,console.table,inquirer,mysql2</p>
@@ -36,7 +32,6 @@
             </div>
 
             <div class="project">
-                <img src="/path-to-project2-image.jpg" alt="Project 2" />
                 <h2>E-commerce-back-end</h2>
                 <p>Description of Project 5</p>
                 <p>Use of express,mysql2,sequelize</p>
